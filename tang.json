@@ -139,7 +139,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "资源(挂)",
+      "name": "资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
