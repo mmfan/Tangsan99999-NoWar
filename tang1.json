@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://home.jundie.top:81/ray/json/bili.json"
+      "ext": "http://ghproxy.com/https://raw.githubusercontent.com/mmfan/Tangsan99999-NoWar/main/json/bili.json"
     },
     {
       "key": "Cokemv",
